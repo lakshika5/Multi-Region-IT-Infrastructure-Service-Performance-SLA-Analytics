@@ -31,7 +31,7 @@ This project implements a complete data analytics platform for IT infrastructure
 | Database | Microsoft SQL Server, T-SQL |
 | ETL | Python, Pandas, NumPy, pyODBC |
 | BI & Visualization | Power BI, DAX |
-| Data Modeling | Star Schema, Dimensional Modeling |
+| Data Modeling | galaxy Schema, Dimensional Modeling |
 
 ## Database Schema (ERD)
 
